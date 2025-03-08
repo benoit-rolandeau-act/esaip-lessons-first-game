@@ -1,0 +1,10 @@
+{
+    "@@last_modified": "2025-02-27",
+    "@@locale": "en_US",
+    "appTitle": "ESAIP First game",
+    "@appTitle": {
+        "description": "This is the first game app title",
+        "type": "text",
+        "placeholders": {}
+    }
+}
