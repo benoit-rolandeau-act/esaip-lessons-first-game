@@ -1,0 +1,8 @@
+{
+    "@@locale": "fr_FR",
+    "appTitle": "Mon application",
+    "@appTitle": {
+        "description": "This is the title of the application in the home page",
+        "placeholders": {}
+    }
+}
